@@ -1,0 +1,19 @@
+1 = zone a conquerir, neutral
+2 = Zone conquered by barbarians, because they are better in snow ? 
+3 = zone conquered by knights, because they are better in grass ?
+4 = zone conquered by samurais, because they are better in bamboo ? 
+5 = neutral zone, can't be conquered
+6 = water, can't even go on
+7 = tree
+
+
+11 = dead body ? dont know if we are going to use
+12 = box, maybe using
+....
+
+for each character sprite paste
+1 = facing south
+2 = facing east
+3 = facing north
+4 = facing west
+
